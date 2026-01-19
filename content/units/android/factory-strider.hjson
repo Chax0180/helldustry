@@ -47,7 +47,7 @@ weapons: [
     name: factory-strider-cannon
     y: 6
     reload: 300
-    shootSound: mediumCannon
+    shootSound: shootBeamPlasma
     mirror: false
     rotate: true
     inaccuracy: 0
@@ -83,7 +83,7 @@ shoot: {
 shots: 20
 shotDelay: 5
 }
-shootSound: lasershot
+shootSound: shootBeamPlasmaSmall
 x: 5
 y: 8
 top: false
