@@ -1,5 +1,5 @@
-etype: PowerTurret
-name: Shear
+type: PowerTurret
+name: Laser Artillery
 description: Fires large lasers at enemy targets over long ranges.
 size: 3
 health: 1200
