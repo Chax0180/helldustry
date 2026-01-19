@@ -18,8 +18,10 @@ type: BasicBulletType
 width: 7
 height: 9
 lifetime: 40
+      frontColor: ffffff
+      backColor: b58aff
                     lightning: 3
-                    lightningLength: 3
+                    lightningLength: 5
                     lightningColor: b58aff
                     lightningDamage: 10
 speed: 3
