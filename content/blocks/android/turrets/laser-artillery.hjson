@@ -48,8 +48,8 @@ basePrefix: android-
       mirror: true
       under: false
       progress: warmup
-        moveY: -10
-        moveX: 10
+        moveY: -4
+        moveX: 4
     }
     {
       type: RegionPart
@@ -61,7 +61,7 @@ basePrefix: android-
         {
           type: PartMove
           progress: recoil
-          y: -3
+          y: -2
         }
       ]
     }
