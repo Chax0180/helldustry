@@ -1,8 +1,22 @@
 type: mech
 name: Hacked Crawler
 description: Carries a weak energy field that damages blocks and suppresses enemy repair blocks.
-speed: 2
+speed: 1.25
 health: 150
 hitSize: 8
 mechFrontSway: 0.25
 range: 40
+abilities: [
+   {
+    type: EnergyFieldAbility
+    damage: 1.7
+    reload: 90
+    range: 240
+    y: -5
+  }
+{
+type: EnergyFieldAbility
+color: bf92f9
+range: 200
+healPercent: 0.25
+}
