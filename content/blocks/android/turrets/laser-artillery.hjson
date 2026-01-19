@@ -40,8 +40,17 @@ shootType: {
 }
 drawer: {
   type: DrawTurret
-  basePrefix: reinforced-
+basePrefix: android-
   parts: [
+    {
+      type: RegionPart
+      suffix: -piston
+      mirror: true
+      under: false
+      progress: warmup
+        moveY: -10
+        moveX: 10
+    }
     {
       type: RegionPart
       suffix: -barrel
@@ -55,15 +64,6 @@ drawer: {
           y: -3
         }
       ]
-    }
-    {
-      type: RegionPart
-      suffix: -blade
-      mirror: true
-      under: false
-      progress: warmup
-        moveY: -1
-        moveX: 1
     }
   ]
 }
