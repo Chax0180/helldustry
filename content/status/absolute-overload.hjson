@@ -5,7 +5,7 @@ effect: {
     type: ParticleEffect
     particles: 3
     length: 20
-    lifetime: 5
+    lifetime: 20
     interp: circleOut
     cone: 180
     colorFrom: b58aff
