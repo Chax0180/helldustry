@@ -20,8 +20,11 @@ android:[
 light: 989aa4
 medium: 6e7080
 dark: 4a4b53
-outline:
+outline: 37383d
     accents
 light:
 dark:
+    turrets
+light: 7b7b7b
+dark: 4d4e58
 ]
