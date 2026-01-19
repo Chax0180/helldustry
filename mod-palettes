@@ -11,7 +11,17 @@ dark:    6b3aba
     unit-repaint
 light:   646567
 dark:    3c3837
-]
     unit-luminary-decals
 light:   a98cdb
 dark:    796dcf
+]
+android:[
+    base-material
+light: 989aa4
+medium: 6e7080
+dark: 4a4b53
+outline:
+    accents
+light:
+dark:
+]
