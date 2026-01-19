@@ -5,8 +5,8 @@ effect: {
     type: ParticleEffect
     particles: 1
     length: 20
-    lifetime: 5
-    interp: circleOut
+    lifetime: 60
+    interp: elastic
     cone: 180
     colorFrom: b58aff
     colorTo: 6b3aba
