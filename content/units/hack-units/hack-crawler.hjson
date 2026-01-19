@@ -7,16 +7,14 @@ hitSize: 8
 mechFrontSway: 0.25
 range: 40
 abilities: [
-   {
-    type: EnergyFieldAbility
-    damage: 1.7
-    reload: 90
-    range: 240
-    y: -5
-  }
+{
+type: SuppressionFieldAbility
+color:9bbccf
+range: 50
+}
 {
 type: EnergyFieldAbility
-color: bf92f9
-range: 200
-healPercent: 0.25
+color: 9bbccf
+range: 50
+healPercent: 0
 }
