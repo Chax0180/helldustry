@@ -1,5 +1,6 @@
 etype: mech
 name: Hacked Reign
+description: Quickly fires shocking shells at enemy targets, and carries a deadly railgun.
 speed: 0.4
 rotateSpeed: 1.65
 health: 24000
@@ -20,7 +21,7 @@ y: 1
 shootY: 11
 top: false
 ejectEffect: casing4
-shootSound: bang
+shootSound: shootReign
 bullet: {
 type: BasicBulletType
 speed: 10
@@ -31,6 +32,8 @@ height: 20
 lifetime: 30
 splashDamageRadius: 15
 splashDamage: 30
+      frontColor: ffffff
+      backColor: b58aff
                     lightning: 3
                     lightningLength: 15
                     lightningColor: b58aff
