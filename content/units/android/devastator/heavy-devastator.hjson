@@ -16,7 +16,7 @@ shoot: {
 shots: 20
 shotDelay: 5
 }
-shootSound: lasershoot
+shootSound: shootLaser
 x: 7
 y: 0
 top: false
@@ -62,7 +62,6 @@ abilities: [
       width: 10
       regen: .5
       max: 500
-      color: e35336
       whenShooting: false
   }
 ]
