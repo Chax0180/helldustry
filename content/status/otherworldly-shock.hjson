@@ -1,6 +1,7 @@
 damage: 0.1
+name: Otherworldly Shock
 speedMultiplier: 0.8
-color: b58aff
+color: bddff2
 effect: {
     type: ParticleEffect
     particles: 1
