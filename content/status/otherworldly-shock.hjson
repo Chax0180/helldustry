@@ -5,10 +5,10 @@ effect: {
     type: ParticleEffect
     particles: 1
     length: 20
-    lifetime: 60
+    lifetime: 180
     interp: elastic
     cone: 180
-    colorFrom: b58aff
+    colorFrom: bddff2
     colorTo: 6b3aba
     sizeFrom: 2
     sizeTo: 0.1
