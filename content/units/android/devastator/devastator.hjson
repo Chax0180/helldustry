@@ -15,7 +15,7 @@ shoot: {
 shots: 2
 shotDelay: 10
 }
-shootSound: lasershoot
+shootSound: shootBeamPlasmaSmall
 x: 7
 y: 0
 top: false
