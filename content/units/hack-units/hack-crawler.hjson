@@ -29,9 +29,9 @@ damage: 5
 reload: 60
 status: otherworldly-shock
 statusDuration: 300
-effectRadius: 3
+effectRadius: 0.5
 sectorRad: 0.1
 rotateSpeed: 1.25
-sectors: 3
+sectors: 0
 }
 ]
