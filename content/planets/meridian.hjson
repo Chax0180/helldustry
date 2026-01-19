@@ -119,7 +119,7 @@ allowWaveSimulation: true
 clearSectorOnLose: true
 allowWaves: true
 prebuildBase: false
-defaultCore: crude-crash-pod
+defaultCore: core-shard
 parent: sun
 solarSystem: sun
 launchCandidates: []
