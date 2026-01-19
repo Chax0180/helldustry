@@ -9,7 +9,7 @@ effect: {
     interp: elastic
     cone: 180
     colorFrom: bddff2
-    colorTo: 6b3aba
+    colorTo: 82a3b5
     sizeFrom: 2
     sizeTo: 0.1
   }
