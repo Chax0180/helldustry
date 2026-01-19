@@ -30,6 +30,8 @@ height: 14
 lifetime: 100
 splashDamageRadius: 20
 splashDamage: 50
+      frontColor: ffffff
+      backColor: b58aff
                     lightning: 6
                     lightningLength: 10
                     lightningColor: b58aff
