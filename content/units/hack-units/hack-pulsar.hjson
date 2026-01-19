@@ -28,7 +28,7 @@ shots: 5
 shotDelay: 0.5
 }
 recoil: 2.5
-shootSound: spark
+shootSound: shootPulsar
 bullet: {
 type: LightningBulletType
                     lightningColor: b58aff
