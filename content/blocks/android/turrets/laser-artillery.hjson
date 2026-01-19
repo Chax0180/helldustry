@@ -5,6 +5,7 @@ size: 3
 health: 1200
 shootSound: shootBeamPlasma
 reload: 120
+cooldownTime: 600
 rotateSpeed: 1.75
 requirements: [
 scrap/500
