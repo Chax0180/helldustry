@@ -10,6 +10,7 @@ flying: false
 health: 18000
 armor: 9
 stepShake: 1.5
+stepSound: walkerStep
 hitSize: 29
 drownTimeMultiplier: 6
 
