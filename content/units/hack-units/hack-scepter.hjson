@@ -1,5 +1,6 @@
 type: mech
 name: Hacked Scepter
+description: Shoots a salvos of shocking bullets at enemy targets and spews fire.
 speed: 0.36
 rotateSpeed: 2.1
 health: 9000
@@ -19,7 +20,7 @@ y: 1
 shootY: 8
 top: false
 ejectEffect: casing3
-shootSound: bang
+shootSound: shootScepter
 shoot:{
 shots: 3
 shotDelay: 5
@@ -50,7 +51,7 @@ shootY: 8
 recoil: 3
 top: false
 outlineColor: 556f7d
-shootSound: flame2
+shootSound: shootFlamePlasma
     bullet: {
       damage: 40
       shootEffect: none
