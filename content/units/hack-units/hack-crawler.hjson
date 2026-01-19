@@ -11,9 +11,9 @@ abilities: [
 type: SuppressionFieldAbility
 color:9bbccf
 range: 50
-orbRadius: 2
-y: -2
-particles: 3
+orbRadius: 4
+y: -3
+particles: 7
 particleSize: 2
 particleLen: 4
 particleColor: 9bbccf
@@ -24,8 +24,8 @@ type: EnergyFieldAbility
 color: 9bbccf
 range: 50
 healPercent: 0
-y: -2
-damage: 2
+y: -3
+damage: 5
 reload: 60
 status: otherworldly-shock
 statusDuration: 300
