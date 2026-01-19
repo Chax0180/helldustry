@@ -1,4 +1,5 @@
 damage: 3
+name: Absolute Overload
 speedMultiplier: 0.5
 color: b58aff
 effect: {
