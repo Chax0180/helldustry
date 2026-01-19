@@ -11,7 +11,7 @@ abilities: [
 type: SuppressionFieldAbility
 color:9bbccf
 range: 50
-orbRadius: 4
+orbRadius: 0
 y: -3
 particles: 7
 particleSize: 2
