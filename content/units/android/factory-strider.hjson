@@ -1,6 +1,6 @@
 type: legs
 name: Factory Strider
-description: A large, walking factory that produces Android Devastators.
+description: A massive, walking factory that produces Android Devastators. Armed with an artillery cannon.
 hitSize: 26
 speed: 0.165
 health: 18000
