@@ -9,14 +9,14 @@ outlineColor: 37383d
 abilities: [
   {
     type: UnitSpawnAbility
-    spawnTime: 900
+    spawnTime: 2700
     unit: devastator
     spawnX: 0
     spawnY: -10
   }
   {
     type: UnitSpawnAbility
-    spawnTime:1800
+    spawnTime:3600
     unit: heavy-devastator
     spawnX: 0
     spawnY: -20
